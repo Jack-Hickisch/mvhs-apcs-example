@@ -28,5 +28,4 @@
 ## Problems
 * commit without -m -> use Esc :wq to quit vm
 * wrong message -> git commit --amend -m "New message"
-
-qwertyuiopasdfghjklzxcvbnm,1234567890-qwertyuiopasdfghjklzxcvbnm
+* wrong commit -> git checkout COMMIT_ID
