@@ -24,3 +24,4 @@
 * git commit -m "Present tense discription of what changed"
 * git log -> Enter move down, q to quit
 * commit without -m -> use Esc :wq to quit vm
+* wrong message -> git commit --amend -m "New message"
