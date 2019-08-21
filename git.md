@@ -23,5 +23,8 @@
 * rm --cached -> remove file from stage
 * git commit -m "Present tense discription of what changed"
 * git log -> Enter move down, q to quit
+* git checkout -- filename -> discard chages 
+
+## Problems
 * commit without -m -> use Esc :wq to quit vm
 * wrong message -> git commit --amend -m "New message"
