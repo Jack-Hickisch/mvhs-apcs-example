@@ -22,3 +22,5 @@
 * add -> add a file to the stage
 * rm --cached -> remove file from stage
 * git commit -m "Present tense discription of what changed"
+* git log -> Enter move down, q to quit
+* commit without -m -> use Esc :wq to quit vm
