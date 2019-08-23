@@ -9,7 +9,7 @@
 
 `git init`
 `touch .gitignore`
-Add `*.class` tp the git.ignore file and save it.
+Add `*.class` to the git.ignore file and save it.
 `git add .`
 `git commit -m "Initial commit"`
 
