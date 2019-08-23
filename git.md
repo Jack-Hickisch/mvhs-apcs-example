@@ -8,6 +8,11 @@
 ## Project Setup
 
 `git init`
+`touch .gitignore`
+Add `*.class` tp the git.ignore file and save it.
+`git add .`
+`git commit -m "Initial commit"`
+
 
 ## 3 Step REpeating Commit Process
 1. Make changes to code
